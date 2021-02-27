@@ -17,9 +17,8 @@ favicon: favicon.ico
 
 repository: Jimxinfang/Jimxinfang.github.io
 github_url: https://github.com/Jimxinfang
-url: http://www.Jimxinfang.com
-root: /Jimxinfang.github.io/
-enforce_ssl: Jimxinfang.com
+url: http://www.jimxinfang.com
+enforce_ssl: jimxinfang.com
 
 ## Gem
 plugins:
