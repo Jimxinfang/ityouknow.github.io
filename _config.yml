@@ -7,7 +7,7 @@
 
 # Site settings
 title:  扎辫子的小麦
-subtitle: ，迄今人生都大写着失败，但不妨碍我继续向前
+subtitle: 吾日需三省吾身
 name: 扎辫子的小麦 
 email: jimxinfang@163.com
 description: 本站是扎辫子的小麦的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
@@ -18,7 +18,7 @@ favicon: favicon.ico
 repository: Jimxinfang/Jimxinfang.github.io
 github_url: https://github.com/Jimxinfang
 url: https://www.jimxinfang.com
-enforce_ssl: jimxinfang.com
+enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
